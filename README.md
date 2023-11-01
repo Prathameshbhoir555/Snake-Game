@@ -1,0 +1,1 @@
+This is a Snake game developed using Python. It's a popular arcade game in which the player controls a snake that moves around the screen, devouring food to grow longer and avoiding collisions with the walls and with itself. If the player collides with the walls or itself, its game over !
