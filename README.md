@@ -28,7 +28,7 @@ UML Diagrams created with Plantext UML
 +  Deployment Diagram
 +  User Case Diagram
 
-PNGs and Planttext Files: 
+PNGs and Planttext Files: https://github.com/Prathameshbhoir555/Snake-Game/tree/main/UML%20diagrams
 
 
 ### 3. Requirements Engineering
