@@ -1,0 +1,62 @@
+@startuml
+class SnakeGame {
+  - snake: Snake
+  - board: SnakeBoard
+  - fruit: Fruit 
+  -score: Score
+  + startGame():
+  + endGame(): 
+  + UserInput(direction: Direction): void
+  +scoretext()
+  + updateGame(): 
+}
+
+class Snake {
+  - size: Size
+  - xpos: int
+  - ypos: int
+  -bodycolor: Color
+  -direction: Direction
+  + move_snake():boolean
+  + eat(): 
+  + checkCollision(): boolean
+}
+
+class GameBoard {
+ -ScreenHeight: int
+ -ScreenWidth: int
+ -BoardColor: Color
+  + generateFruit(): 
+  
+}
+
+class Fruit {
+-xpos:int
+-ypos:int
+-FruitShape
++Randomize()
+}
+
+
+enum Direction {
+  UP
+  DOWN
+  LEFT
+  RIGHT
+}
+
+class Move {
+-xpos
+-ypos
++move_snake()
+}
+
+SnakeGame --> Snake
+SnakeGame -->GameBoard
+SnakeGame --> Fruit
+Snake -->Fruit
+Snake --> Move
+Move <-- Direction 
+GameBoard-->Fruit
+
+@enduml
