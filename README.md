@@ -41,3 +41,11 @@ Two variants used and by mapping requirements in 2 tools .
 - Professional version
   - Jira: https://prathameshbhoir555.atlassian.net/jira/software/projects/SG/boards/2
   
+### 5.DDD
+Creation with Miro For:
+
++ Event Storming Chart
++ Core Domain Chart
++ Domain Relations Chart
+
+Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Game/tree/main/Domain%20driven%20Design
