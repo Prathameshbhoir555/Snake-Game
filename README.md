@@ -53,7 +53,7 @@ Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Gam
 
 ### 6. Metrics
 
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=bugs)](https://sonarcloud.io/dashboard?id=prathameshbhoir555_Snake-Game)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=bugs)](https://sonarcloud.io/dashboard?id=Prathameshbhoir555_Snake-Game)
 
 
 
