@@ -53,7 +53,7 @@ Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Gam
 
 ### 6. Metrics
 
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=bugs)](https://sonarcloud.io/dashboard?id=Prathameshbhoir555_Snake-Game)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
@@ -61,5 +61,20 @@ Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Gam
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 
+
+### 10. IDE
+
+#### Visual Studio Code
+&rarr; *Own Key Shortcut*:
+
+-``` Alt + R ``` (Run)
+
+#### &rarr; *Build-in*:
++ ``` F5``` (Debug)
++ ```Ctrl + H``` ( Replace)
++ ``` Ctrl + C/ Ctrl + V``` (Copy/paste)
++ ```Shift+ Alt + Arrow UP/DOWN``` (To Copy line(s) up or down)
++ ```Ctrl + Z / Ctrl + Y``` (To Undo/Redo)
++ ``` Ctrl + F ``` (To Find in the Script)
 
 
