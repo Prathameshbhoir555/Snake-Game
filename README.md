@@ -41,7 +41,7 @@ Two variants used and by mapping requirements in 2 tools .
 - Professional version
   - Jira: https://prathameshbhoir555.atlassian.net/jira/software/projects/SG/boards/2
   
-### 5.DDD
+### 5. DDD
 Creation with Miro For:
 
 + Event Storming Chart
@@ -49,3 +49,9 @@ Creation with Miro For:
 + Domain Relations Chart
 
 Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Game/tree/main/Domain%20driven%20Design
+
+
+### 6. Metrics
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
+
+
