@@ -52,6 +52,8 @@ Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Gam
 
 
 ### 6. Metrics
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=prathameshbhoir555&metric=bugs)](https://sonarcloud.io/dashboard?id=prathameshbhoir555)
+
 
 
