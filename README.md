@@ -61,6 +61,8 @@ Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Gam
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 
+### 7. Clean Code Development
+[Clean Code Development PDF](https://github.com/Prathameshbhoir555/Snake-Game/blob/main/Clean%20Code%20Development.pdf)
 
 ### 10. IDE
 
