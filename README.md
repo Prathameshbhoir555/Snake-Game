@@ -79,4 +79,16 @@ Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Gam
 + ```Ctrl + Z / Ctrl + Y``` (To Undo/Redo)
 + ``` Ctrl + F ``` (To Find in the Script)
 
+### 11.Functional Programming
 
+&rarr; [only final data structures](https://github.com/Prathameshbhoir555/Snake-Game/blob/908dd55dcd7966fba65f468b96ac85d13b627d70/Functional%20Programming/randomquote.py#L10))
+
+&rarr; [(mostly) side effect free functions](https://github.com/Prathameshbhoir555/Snake-Game/blob/908dd55dcd7966fba65f468b96ac85d13b627d70/Functional%20Programming/randomquote.py#L25)
+
+&rarr; [use of anonymous Function](https://github.com/Prathameshbhoir555/Snake-Game/blob/908dd55dcd7966fba65f468b96ac85d13b627d70/Functional%20Programming/randomquote.py#L35)
+
+&rarr; [Use of Closure Function](https://github.com/Prathameshbhoir555/Snake-Game/blob/908dd55dcd7966fba65f468b96ac85d13b627d70/Functional%20Programming/randomquote.py#L44)
+
+&rarr; [the use of higher-order functions/functions as parameters and return values](https://github.com/Prathameshbhoir555/Snake-Game/blob/908dd55dcd7966fba65f468b96ac85d13b627d70/Functional%20Programming/randomquote.py#L40)
+
+&rarr; [Functions as parameters and return values](https://github.com/Prathameshbhoir555/Snake-Game/blob/908dd55dcd7966fba65f468b96ac85d13b627d70/Functional%20Programming/randomquote.py#L33)
