@@ -80,6 +80,7 @@ Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Gam
 + ``` Ctrl + F ``` (To Find in the Script)
 
 ### 11.Functional Programming
+The link to the Functional programming python code:&rarr; [Click Here](https://github.com/Prathameshbhoir555/Snake-Game/blob/main/Functional%20Programming/randomquote.py)
 
 &rarr; [only final data structures](https://github.com/Prathameshbhoir555/Snake-Game/blob/908dd55dcd7966fba65f468b96ac85d13b627d70/Functional%20Programming/randomquote.py#L10))
 
