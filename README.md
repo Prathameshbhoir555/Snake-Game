@@ -63,9 +63,7 @@ Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Gam
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 
