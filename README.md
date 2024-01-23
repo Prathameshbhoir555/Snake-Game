@@ -71,6 +71,13 @@ Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Gam
 [Clean Code Development PDF](https://github.com/Prathameshbhoir555/Snake-Game/blob/main/Clean%20Code%20Development.pdf)  
 [Personal cheatsheet PDF](https://github.com/Prathameshbhoir555/Snake-Game/blob/main/Clean%20Code%20Development%20Cheatsheet.pdf)
 
+### 8. Build Management
+Built with ```PyBuilder```
+
+For Build files&rarr;  [Click here](https://github.com/Prathameshbhoir555/Snake-Game/tree/Random-Quotes/random-quotes-generator)  
+
+### 9. Unit Tests
+Link for the tests&rarr;  [Here](https://github.com/Prathameshbhoir555/Snake-Game/blob/main/test_snake.py)
 ### 10. IDE
 
 #### Visual Studio Code
