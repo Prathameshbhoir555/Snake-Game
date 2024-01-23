@@ -1,6 +1,9 @@
 # Snake Game
 This is a Snake game. It is developed using Python. It's a popular arcade game in which the player controls a snake that moves around the screen, devouring food to grow longer and avoiding collisions with the walls and with itself. If the player collides with the walls or itself, its game over!
 
+### Requirements
+```pip install pygame```
+
 
 ### TABLE OF CONTENTS 
 - Git
@@ -40,13 +43,18 @@ Two variants used and by mapping requirements in 2 tools .
   
 - Professional version
   - Jira: https://prathameshbhoir555.atlassian.net/jira/software/projects/SG/boards/2
-  
-### 5. DDD
-Creation with Miro For:
 
-+ Event Storming Chart
+    or [Click here](https://github.com/Prathameshbhoir555/Snake-Game/tree/main/Jira) if you cannot access jira for screenshots of jira
+
+### 4. Analysis
+For the Checklist and Analysis PDF : [Click here](https://github.com/Prathameshbhoir555/Snake-Game/blob/main/Analysis.pdf) 
+
+### 5. DDD
+The charts are made in Miro:
+
 + Core Domain Chart
-+ Domain Relations Chart
++ Domain Relation Chart
++ Event Storming Chart
 
 Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Game/tree/main/Domain%20driven%20Design
 
@@ -62,7 +70,8 @@ Find all the PNGs images here :  https://github.com/Prathameshbhoir555/Snake-Gam
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Prathameshbhoir555_Snake-Game&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Prathameshbhoir555_Snake-Game)
 
 ### 7. Clean Code Development
-[Clean Code Development PDF](https://github.com/Prathameshbhoir555/Snake-Game/blob/main/Clean%20Code%20Development.pdf)
+[Clean Code Development PDF](https://github.com/Prathameshbhoir555/Snake-Game/blob/main/Clean%20Code%20Development.pdf)  
+[Personal cheatsheet PDF](https://github.com/Prathameshbhoir555/Snake-Game/blob/main/Clean%20Code%20Development%20Cheatsheet.pdf)
 
 ### 10. IDE
 
