@@ -1,0 +1,62 @@
+{
+  "module_names": [
+    {
+      "branches": 0,
+      "branches_missing": 0,
+      "branches_partial": 0,
+      "coverage": 0.0,
+      "lines": [
+        4,
+        10,
+        25,
+        27,
+        33,
+        35,
+        40,
+        42,
+        43,
+        44,
+        47,
+        48,
+        52,
+        55,
+        56,
+        57,
+        60,
+        61,
+        63,
+        64,
+        65
+      ],
+      "lines_not_covered": [
+        4,
+        10,
+        25,
+        27,
+        33,
+        35,
+        40,
+        42,
+        43,
+        44,
+        47,
+        48,
+        52,
+        55,
+        56,
+        57,
+        60,
+        61,
+        63,
+        64,
+        65
+      ],
+      "module": "random_quotes",
+      "sum_lines": 21,
+      "sum_lines_not_covered": 21
+    }
+  ],
+  "overall_branch_coverage": 100,
+  "overall_branch_partial_coverage": 100,
+  "overall_coverage": 0.0
+}
